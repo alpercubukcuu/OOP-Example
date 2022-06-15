@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NesneYönelimliProgramlama/1.0.0": {
+        "dependencies": {
+          "EmlakciLib": "1.0.0"
+        },
+        "runtime": {
+          "NesneYönelimliProgramlama.dll": {}
+        }
+      },
+      "EmlakciLib/1.0.0": {
+        "runtime": {
+          "EmlakciLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NesneYönelimliProgramlama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmlakciLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

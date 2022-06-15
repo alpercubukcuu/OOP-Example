@@ -1,0 +1,16 @@
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\NesneYönelimliProgramlama\bin\Debug\netcoreapp3.1\EmlakciEvApp.exe
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\NesneYönelimliProgramlama\bin\Debug\netcoreapp3.1\EmlakciEvApp.deps.json
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\NesneYönelimliProgramlama\bin\Debug\netcoreapp3.1\EmlakciEvApp.runtimeconfig.json
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\NesneYönelimliProgramlama\bin\Debug\netcoreapp3.1\EmlakciEvApp.runtimeconfig.dev.json
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\NesneYönelimliProgramlama\bin\Debug\netcoreapp3.1\EmlakciEvApp.dll
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\NesneYönelimliProgramlama\bin\Debug\netcoreapp3.1\EmlakciEvApp.pdb
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\NesneYönelimliProgramlama\bin\Debug\netcoreapp3.1\EmlakciLib.dll
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\NesneYönelimliProgramlama\bin\Debug\netcoreapp3.1\EmlakciLib.pdb
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\NesneYönelimliProgramlama\obj\Debug\netcoreapp3.1\EmlakciEvApp.csprojAssemblyReference.cache
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\NesneYönelimliProgramlama\obj\Debug\netcoreapp3.1\EmlakciEvApp.AssemblyInfoInputs.cache
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\NesneYönelimliProgramlama\obj\Debug\netcoreapp3.1\EmlakciEvApp.AssemblyInfo.cs
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\NesneYönelimliProgramlama\obj\Debug\netcoreapp3.1\EmlakciEvApp.csproj.CoreCompileInputs.cache
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\NesneYönelimliProgramlama\obj\Debug\netcoreapp3.1\EmlakciEvApp.csproj.CopyComplete
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\NesneYönelimliProgramlama\obj\Debug\netcoreapp3.1\EmlakciEvApp.dll
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\NesneYönelimliProgramlama\obj\Debug\netcoreapp3.1\EmlakciEvApp.pdb
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\NesneYönelimliProgramlama\obj\Debug\netcoreapp3.1\EmlakciEvApp.genruntimeconfig.cache

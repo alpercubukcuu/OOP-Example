@@ -1,0 +1,16 @@
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\NesneYönelimliProgramlama\bin\Debug\netcoreapp3.1\NesneYönelimliProgramlama.exe
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\NesneYönelimliProgramlama\bin\Debug\netcoreapp3.1\NesneYönelimliProgramlama.deps.json
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\NesneYönelimliProgramlama\bin\Debug\netcoreapp3.1\NesneYönelimliProgramlama.runtimeconfig.json
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\NesneYönelimliProgramlama\bin\Debug\netcoreapp3.1\NesneYönelimliProgramlama.runtimeconfig.dev.json
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\NesneYönelimliProgramlama\bin\Debug\netcoreapp3.1\NesneYönelimliProgramlama.dll
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\NesneYönelimliProgramlama\bin\Debug\netcoreapp3.1\NesneYönelimliProgramlama.pdb
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\NesneYönelimliProgramlama\bin\Debug\netcoreapp3.1\EmlakciLib.dll
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\NesneYönelimliProgramlama\bin\Debug\netcoreapp3.1\EmlakciLib.pdb
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\NesneYönelimliProgramlama\obj\Debug\netcoreapp3.1\NesneYönelimliProgramlama.csprojAssemblyReference.cache
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\NesneYönelimliProgramlama\obj\Debug\netcoreapp3.1\NesneYönelimliProgramlama.AssemblyInfoInputs.cache
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\NesneYönelimliProgramlama\obj\Debug\netcoreapp3.1\NesneYönelimliProgramlama.AssemblyInfo.cs
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\NesneYönelimliProgramlama\obj\Debug\netcoreapp3.1\NesneYönelimliProgramlama.csproj.CoreCompileInputs.cache
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\NesneYönelimliProgramlama\obj\Debug\netcoreapp3.1\NesneYönelimliProgramlama.csproj.CopyComplete
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\NesneYönelimliProgramlama\obj\Debug\netcoreapp3.1\NesneYönelimliProgramlama.dll
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\NesneYönelimliProgramlama\obj\Debug\netcoreapp3.1\NesneYönelimliProgramlama.pdb
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\NesneYönelimliProgramlama\obj\Debug\netcoreapp3.1\NesneYönelimliProgramlama.genruntimeconfig.cache

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EmlakciEvApp/1.0.0": {
+        "dependencies": {
+          "EmlakciLib": "1.0.0"
+        },
+        "runtime": {
+          "EmlakciEvApp.dll": {}
+        }
+      },
+      "EmlakciLib/1.0.0": {
+        "runtime": {
+          "EmlakciLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmlakciEvApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmlakciLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

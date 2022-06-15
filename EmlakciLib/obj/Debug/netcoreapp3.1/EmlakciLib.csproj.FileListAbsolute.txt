@@ -1,0 +1,9 @@
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\EmlakciLib\bin\Debug\netcoreapp3.1\EmlakciLib.deps.json
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\EmlakciLib\bin\Debug\netcoreapp3.1\EmlakciLib.dll
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\EmlakciLib\bin\Debug\netcoreapp3.1\EmlakciLib.pdb
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\EmlakciLib\obj\Debug\netcoreapp3.1\EmlakciLib.csprojAssemblyReference.cache
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\EmlakciLib\obj\Debug\netcoreapp3.1\EmlakciLib.AssemblyInfoInputs.cache
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\EmlakciLib\obj\Debug\netcoreapp3.1\EmlakciLib.AssemblyInfo.cs
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\EmlakciLib\obj\Debug\netcoreapp3.1\EmlakciLib.csproj.CoreCompileInputs.cache
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\EmlakciLib\obj\Debug\netcoreapp3.1\EmlakciLib.dll
+C:\Users\ALPER\source\repos\NesneYönelimliProgramlama\EmlakciLib\obj\Debug\netcoreapp3.1\EmlakciLib.pdb
